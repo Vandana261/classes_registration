@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Class Registration App is a user-friendly interface developed using React.js and Tailwind CSS. It allows users to browse a list of courses, select or deselect courses, and register for their selected courses. Additionally, it includes a user icon for accessing a logout option, which redirects the user to the welcome page.
+The Classes Registration App is a user-friendly interface developed using React.js and Tailwind CSS. It allows users to browse a list of courses, select or deselect courses, and register for their selected courses. Additionally, it includes a user icon for accessing a logout option, which redirects the user to the welcome page.
 
 ## Features
 
