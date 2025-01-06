@@ -65,9 +65,18 @@ The Class Registration App is a user-friendly interface developed using React.js
 3. Access the class registration page to browse, select, and register for courses.
 4. Click the user icon to access the logout option and return to the welcome page.
 
-## Deployment
+![Welcome](https://github.com/user-attachments/assets/f428bcc5-bd63-4611-bdf4-16945919536a)
 
-To build and deploy the application for production:
+![Sign_Up](https://github.com/user-attachments/assets/29923763-8a40-4c97-a847-ce98c2a5a6f2)
+
+![Login](https://github.com/user-attachments/assets/8d08542e-b7be-4fe2-83f2-40d8849faf50)
+
+![Classes_Registration](https://github.com/user-attachments/assets/d329824c-b77b-4666-b47f-9ed82a02638c)
+
+
+
+
+
 
 1. Build the project:
    ```bash
