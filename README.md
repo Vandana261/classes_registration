@@ -1,4 +1,4 @@
-# Class Registration App
+# Classes Registration App
 
 ## Overview
 
@@ -72,14 +72,3 @@ The Class Registration App is a user-friendly interface developed using React.js
 ![Login](https://github.com/user-attachments/assets/8d08542e-b7be-4fe2-83f2-40d8849faf50)
 
 ![Classes_Registration](https://github.com/user-attachments/assets/d329824c-b77b-4666-b47f-9ed82a02638c)
-
-
-
-
-
-
-1. Build the project:
-   ```bash
-   npm run build
-   ```
-2. Deploy the contents of the `build` directory to your preferred hosting service.
