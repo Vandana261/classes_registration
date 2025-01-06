@@ -30,10 +30,10 @@ The Class Registration App is a user-friendly interface developed using React.js
 ├── src/
 │   ├── Components/
 │   │   ├── ClassRegistration.jsx
-│   │   ├── WelcomePage.jsx
-│   │   ├── Login.jsx
-│   │   └── SignUp.jsx
-│   ├── App.jsx
+│   │   ├── Login.jsx 
+│   │   ├── SignUp.jsx
+│   │   └── WelcomePage.jsx
+│   ├── App.js
 │   └── index.js
 ├── package.json
 └── README.md
