@@ -1,6 +1,3 @@
-Sure, here's a sample `README.md` file for your project:
-
-```markdown
 # Class Registration App
 
 ## Overview
